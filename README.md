@@ -10,6 +10,9 @@ A Google Translate API:
 - Translate all languages that Google Translate supports.
 - Support different area (Support Chinese user, in China Mainland could set the suffix to `'cn'` to make it work)
 
+## Live Demo with Nodejs
+[![Edit translation-google-demo](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/youthful-napier-2bi1c?fontsize=14&hidenavigation=1&theme=dark)
+
 ## Install 
 
 ```
