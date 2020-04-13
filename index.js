@@ -233,7 +233,7 @@ function translate(text, opts) {
 
         return result;
     }).catch(function (err) {
-        throw e;
+        throw err;
     });
 }
 
