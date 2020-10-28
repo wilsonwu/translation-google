@@ -4,7 +4,8 @@
 <a href="https://www.npmjs.com/package/translation-google"><img src="https://img.shields.io/npm/l/translation-google.svg" alt="License"></a>
 
 A Google Translate API:
-WARNING: <font color="#dd0000">There is IP banned risk from Google Translate when you use this way to do translation.</font>
+**WARNING: There is IP banned risk from Google Translate when you use this way to do translation.**
+
 
 ## Features 
 
